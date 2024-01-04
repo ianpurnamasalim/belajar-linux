@@ -1,0 +1,4 @@
+An error occured while accesing 'Home' the system responded the requested operation has failed error mounting /dev/sda9 at /media unknown error when mountingBefore that check your partition name by running
+# $ lsblk
+Open terminal with Ctrl+Alt+T and run
+# $ sudo ntfsfix /dev/direktori_name
